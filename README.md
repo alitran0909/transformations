@@ -1,0 +1,1 @@
+# This file consists of manipulating and transforming data sets by fitting them and plotting them. The second portion "Document Corpus" produces TF-IDF vectors as ouptuts and takes a count matrix and computes the IDF values for each column returning vectors. 
